@@ -47,7 +47,7 @@ To test ack_timer: run client using "./client" without running server (skip step
 
 ------------ Additional Test Cases ------------
 
-There are 4 additional test case files simulating 4 different errors
+There are 4 additional test case files in "reject_case" folder simulating 4 different errors
   "case1.c" simulates CASE-1 error
   "case2.c" simulates CASE-2 error
   "case3.c" simulates CASE-3 error
